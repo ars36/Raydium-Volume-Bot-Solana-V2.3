@@ -2,7 +2,7 @@
 
 This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.it running endless swap in solana blockchain . Use Solana Raydium Volume Bot on Raydium to increase volume.
 
-## This product is trying to show the basic functions of volume bot, and not suitable for big live tokens. So, if you want better version, you can refer to version 3.0 in my github.
+## This product is trying to show the basic functions of volume bot, and not suitable for big live tokens. So, if you want better version, you can contact me for version 3.0.
 
 ## Features
 
