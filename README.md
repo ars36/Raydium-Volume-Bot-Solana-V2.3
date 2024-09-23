@@ -62,7 +62,7 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/Lamoerey/Volume-Bot_Raydium_Solana.git
+git clone https://github.com/RichardMoonzzz/Raydium-Volume-Bot-Solana-V2.3.git
 cd volume-bot_raydium
 ```
 2. Install dependencies
